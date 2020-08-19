@@ -1,0 +1,2 @@
+# VSGithubTest
+这个仓库用来测试VS2019上的GIthub插件
